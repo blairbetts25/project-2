@@ -17,7 +17,7 @@
     "fs": "0.0.1-security",
     "jquery": "^3.4.1",
     "path": "^0.12.7",
-    "sequelize": "^5.8.7",
+    "sequelize": "^5.15.1",
     "vue": "^2.6.10",
     "vue-browser-geolocation": "^1.8.0",
     "vue-chartjs": "^3.4.2",
